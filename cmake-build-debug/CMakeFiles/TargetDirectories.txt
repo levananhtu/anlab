@@ -1,0 +1,3 @@
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/cmake-build-debug/CMakeFiles/leviathan.dir
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/cmake-build-debug/CMakeFiles/edit_cache.dir

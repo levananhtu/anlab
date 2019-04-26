@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/src/Enum.h
+
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/src/User.cpp
+User.h
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/src/User.h
+fstream
+-
+
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/src/User.h
+string
+-
+iostream
+-
+Enum.h
+/cygdrive/d/source-code/cc++/jetbrain/leviathan/src/Enum.h
+
